@@ -2,4 +2,6 @@ Learning List
 --------------
 -Github
 -Git
+-AWS
+-Visual Studio Code
 |
